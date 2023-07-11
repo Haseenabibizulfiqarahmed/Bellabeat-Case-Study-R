@@ -8,7 +8,7 @@ Bellabeat, founded in 2013, is a prominent high-tech firm focused on developing 
 
 # PHASE 1 : ASK
 # PHASE 2 : Prepare
-# reading csv files: 
+Reading csv files: 
 ```
 activity <- read.csv("C:/Users/haseena.bibi/Downloads/archive/Fitabase Data 4.12.16-5.12.16/dailyActivity_merged.csv" )
 calories <- read.csv("C:/Users/haseena.bibi/Downloads/archive/Fitabase Data 4.12.16-5.12.16/dailyCalories_merged.csv")
