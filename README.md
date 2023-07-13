@@ -31,3 +31,8 @@ weightLogInfo <- read.csv("C:/Users/haseena.bibi/Downloads/archive/Fitabase Data
 # PHASE 3 : Process 
 # PHASE 4 : Analyze
 # PHASE 5 : Share
+
+# References: 
+- https://www.kaggle.com/code/chebotinaa/bellabeat-case-study-with-r
+- https://sites.google.com/view/alondra-perez-cortez/projects/bellabeat-r-tutorial
+- 
