@@ -13,10 +13,7 @@ The objective is to analyze user patterns of smart device usage among Bellabeat'
 2- Consider key stakeholders:
 The main stakeholders for this analysis are Urška Sršen, Bellabeat's co-founder and Chief Creative Officer, Sando Mur, Mathematician and Bellabeat's co-founder, and the Bellabeat marketing analytics team.
 
-3- The business task:
-Given these objectives, the business task is defined as understanding how Bellabeat's users utilize their smart devices. This involves identifying trends in smart device usage and exploring how these trends can be applied to Bellabeat's customers. The ultimate goal is to leverage these trends to influence Bellabeat's marketing strategy, aligning it with customer preferences and needs.
-
-Main Objective: 
+3- Main Objective: 
 - What are some trends in smart device usage that can be observed?
 - How can these trends be applied to Bellabeat's customers?
 - In what ways can these trends help shape and influence Bellabeat's marketing strategy?
